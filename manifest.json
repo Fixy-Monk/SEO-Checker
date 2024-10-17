@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "SEO Quick Checker",
+    "version": "1.0",
+    "description": "Quickly check the SEO basics of any webpage.",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "icons": {
+      "48": "icon.png"
+    }
+  }
+  
